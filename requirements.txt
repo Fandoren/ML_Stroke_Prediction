@@ -9,3 +9,4 @@ ipykernel
 statsmodels
 imbalanced-learn
 catboost
+lightgbm
